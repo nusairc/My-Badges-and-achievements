@@ -3,7 +3,7 @@
 view AWS Badges I earned 
 https://www.credly.com/users/nusair-c
 
-### AWS CLOUD FOUNDATIONAL AND ARCHITECTING by ethnus 
+### AWS CLOUD FOUNDATIONAL AND ARCHITECTING Course by [ethnus ](https://ethnus.com/)
 - https://ethnus.com/certverify 
 - Certificate ID:  MHWSHK88  
 
