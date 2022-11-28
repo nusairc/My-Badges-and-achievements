@@ -1,7 +1,7 @@
 # My-Badges-and-Achievements
 
-### view AWS Badges I earned by [AWS Educate](https://aws.amazon.com/education/awseducate/)
-https://www.credly.com/users/nusair-c
+### view AWS Badges I earned from [AWS Educate](https://aws.amazon.com/education/awseducate/)
+- https://www.credly.com/users/nusair-c
 
 ### AWS CLOUD FOUNDATIONAL AND ARCHITECTING Course by [ethnus ](https://ethnus.com/)
 - https://ethnus.com/certverify 
